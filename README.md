@@ -25,7 +25,7 @@ This is an Udacity Nanodegree project.I was interested in using Stackoverflow De
 
 
 ## Results <a name="results"></a>
-The main findings of the code can be found at the post available [here](https://flostahl.medium.com/how-does-the-old-world-compare-to-the-new-world-spoken-from-a-software-developers-perspective-ad08489704c2)
+The main findings of the code can be found at the post available [here](https://fmstahl.medium.com/how-does-the-old-world-compare-to-the-new-world-spoken-from-a-software-developers-perspective-ad08489704c2)
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 I must give credit to Stackoverflow for the data. You can find the Licensing for the data and other descriptive information at the Stackoverflow link available [here](https://insights.stackoverflow.com/survey).
